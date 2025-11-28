@@ -36,3 +36,7 @@ En este caso seria añadir 5 veces algo similar a lo siguiente:
 ![Imagen9](https://github.com/oliver-miguez/Tarea14/blob/main/Apartado%205.png)
 
 ![Imagen10](https://github.com/oliver-miguez/Tarea14/blob/main/Tarea%207.png)
+
+## Apartado 7
+
+![Imagne11](https://github.com/oliver-miguez/Tarea14/blob/main/Tarea%207.png)
